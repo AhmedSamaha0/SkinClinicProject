@@ -1,0 +1,60 @@
+﻿@page
+@model RegisterModel
+@{
+    Layout = "_LayoutRegister";
+    ViewData["Title"] = "Register";
+}
+
+<div class="register-page">
+    <div class="form-main">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <h2 style="color:var(--logo-color)" class="text-center">انشاء حساب جديد</h2>
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div>
+                <input asp-for="Input.FullName" placeholder="ادخل الاسم كامل (رباعي)" class="form-control" id="full-name" />
+                <span asp-validation-for="Input.FullName" class="text-danger" id="valid-full-name"></span>
+            </div>
+            <div>
+                <input asp-for="Input.PhoneNumber" placeholder="ادخل رقم الهاتف" class="form-control" id="phone-number" />
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger" id="valid-phone-number"></span>
+            </div>
+            <div>
+                <input asp-for="Input.Email" placeholder="ادخل البريد الالكتورني" class="form-control" id="email" />
+                <span asp-validation-for="Input.Email" class="text-danger" id="valid-email"></span>
+            </div>
+            <div>
+                <input asp-for="Input.Password" placeholder="ادخل الرقم السري" class="form-control" id="password"/>
+                <span asp-validation-for="Input.Password" class="text-danger" id="valid-password"></span>
+            </div>
+            <div>
+                <input asp-for="Input.ConfirmPassword" placeholder="تأكيد الرقم السري" class="form-control" id="confirm-password" />
+                <span asp-validation-for="Input.ConfirmPassword" class="text-danger" id="valid-confirm-password"></span>
+            </div>
+            <div>
+                <input asp-for="Input.BirthDate" placeholder="ادخل عيد الميلاد" class="form-control" id="birth-date" />
+                <span asp-validation-for="Input.BirthDate" class="text-danger" id="valid-birth-date"></span>
+            </div>
+            <div>
+                <input asp-for="Input.Address" placeholder="ادخل العنوان" class="form-control" id="address" />
+                <span asp-validation-for="Input.Address" class="text-danger" id="valid-address"></span>
+            </div>
+            <div>
+                <span style="padding-bottom: 20px;">الجنس</span>
+                <select class="form-control" asp-for="Input.Gender">
+                    <option value="ذكر">ذكر</option>
+                    <option value="انثى">انثى</option>
+                </select>
+            </div>
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg submit-btn" style="background:var(--logo-color); color:#fff">تسجيل حساب</button>
+        </form>
+        <hr />
+        <div class="text-center">
+            <a asp-area="Identity" asp-page="/Account/Login" class="text-decoration-none" style="color:var(--logo-color);">هل لديك حساب بالفعل ؟</a>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,38 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "_LayoutRegister";
+}
+
+<div class="register-page login-page">
+    <div class="form-main">
+            <form id="account" method="post">
+                <h2 style="color:var(--logo-color)" class="text-center">مرحبًا بعودتك</h2>
+                <div>
+                    <input asp-for="Input.Email" placeholder="ادخل البريد الالكتورني" class="form-control" id="email" />
+                    <span asp-validation-for="Input.Email" class="text-danger" id="valid-email"></span>
+                </div>
+                <div>
+                    <input asp-for="Input.Password" placeholder="ادخل الرقم السري" class="form-control" id="password" />
+                    <span asp-validation-for="Input.Password" class="text-danger" id="valid-password"></span>
+                </div>
+                <div>
+                <button type="submit" class="w-100 btn btn-lg" style="background:var(--logo-color); color:#fff;">تسجيل دخول</button>
+                </div>
+                <div class="checkbox">
+                <label asp-for="Input.RememberMe">تذكرني ؟</label>
+                    <input asp-for="Input.RememberMe" class="form-check-input" />
+                </div>
+            </form>
+            <hr />
+            <div class="text-center">
+            <a asp-area="Identity" asp-page="/Account/Register" class="text-decoration-none" style="color:var(--logo-color);">انشاء حساب جديد</a>
+            </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

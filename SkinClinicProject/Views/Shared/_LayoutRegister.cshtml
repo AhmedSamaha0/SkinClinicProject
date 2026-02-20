@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/SkinClinicProject.styles.css" asp-append-version="true" />
+     <link href="~/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body class="regiser-layout-body">
+    <div class="regisetr-layout-logo">
+      <div class="logo">
+            <span>عيادة بشرة</span>
+            <i class="fa-solid fa-hospital"></i>
+      </div>
+    </div>
+    <div class="regiser-layout">
+        @RenderBody()
+    </div>
+    <footer class="footer-reigster-layout">
+        <span>Skin Clinic <i class="fa-solid fa-copyright"></i> 2026</span>
+    </footer>
+    <script src="~/js/all.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

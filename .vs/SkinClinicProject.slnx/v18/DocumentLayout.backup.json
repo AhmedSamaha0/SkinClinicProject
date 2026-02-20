@@ -3,16 +3,80 @@
   "WorkspaceRootPath": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\my context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\my context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E12B1514-92C8-48AF-86BB-5A05DC5AC11E}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\views\\shared\\_layoutregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\views\\shared\\_layoutregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\userexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\userexamination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\my context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\my context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|d:\\setup\\mvc projects\\skin clinic\\skinclinicproject\\skinclinicproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218FA2C0-93B0-6936-2284-2ACA053636D5}|SkinClinicProject\\SkinClinicProject.csproj|solutionrelative:skinclinicproject\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +86,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\My Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SkinClinicProject\\My Context\\AppDbContext.cs",
-              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\My Context\\AppDbContext.cs",
-              "RelativeToolTip": "SkinClinicProject\\My Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:12:47.428Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SkinClinicProject\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SkinClinicProject\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAH0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T13:14:30.006Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SkinClinicProject\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SkinClinicProject\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-19T12:00:14.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T12:30:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADQAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T18:14:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutRegister.cshtml",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Shared\\_LayoutRegister.cshtml",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Views\\Shared\\_LayoutRegister.cshtml",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Shared\\_LayoutRegister.cshtml",
+              "RelativeToolTip": "SkinClinicProject\\Views\\Shared\\_LayoutRegister.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T18:03:56.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADwvzwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:44:15.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SkinClinicProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T21:48:06.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\User.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\User.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:12:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T14:05:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserExamination.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\UserExamination.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\UserExamination.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\UserExamination.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\UserExamination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:18:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Program.cs",
               "RelativeDocumentMoniker": "SkinClinicProject\\Program.cs",
               "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Program.cs",
               "RelativeToolTip": "SkinClinicProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:11:25.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T21:10:32.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SkinClinicProject\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SkinClinicProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T00:11:21.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T16:45:02.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Examination.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\Examination.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Examination.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\Examination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:39:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "SkinClinicProject\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T13:47:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\UserSession.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\UserSession.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\UserSession.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:09:50.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\Booking.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Booking.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:33:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Models\\Session.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Models\\Session.cs",
+              "RelativeToolTip": "SkinClinicProject\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T21:11:46.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SkinClinicProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SkinClinicProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-11T21:47:59.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\My Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SkinClinicProject\\My Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Setup\\MVC Projects\\Skin Clinic\\SkinClinicProject\\SkinClinicProject\\My Context\\AppDbContext.cs",
+              "RelativeToolTip": "SkinClinicProject\\My Context\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T00:12:47.428Z"
             }
           ]
         }

@@ -1,7 +1,15 @@
+
+:root {
+    --logo-color: #5fc9f3;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
 html {
   font-size: 14px;
+  direction: rtl;
 }
-
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -17,10 +25,6 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
-}
-
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;
@@ -29,3 +33,108 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+/* -> Begin Register Layout <-*/
+.regiser-layout-body {
+    background-color: #fff;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.regisetr-layout-logo .logo {
+    font-size: 50px;
+    padding-right: 20px;
+    padding-top: 20px;
+    color: var(--logo-color);
+}
+.regiser-layout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, #ffffff4e, #5fc9f384), url('../Images/skin-clinic-5.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 80dvh;
+    box-shadow: 0 0 10px 3px #777;
+}
+.footer-reigster-layout {
+}
+/* -- Media --*/
+@media screen and (max-width: 576px) {
+    .regisetr-layout-logo .logo {
+        text-align: center;
+    }
+}
+/* -> End Register Layout <-*/
+
+/* ->-> Begin Register Page <-<-*/
+.register-page,
+.login-page {
+    background-color: #eee;
+    height: 730px;
+    width: 450px;
+    background-color: #eee;
+    border-radius: 10px;
+    transition: 0.25s;
+    border: 2px solid var(--logo-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px 1px var(--logo-color);
+}
+.register-page .form-main{
+    width:80%;
+}
+.register-page .form-main form {
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+.register-page .form-main form input:focus,
+.register-page .form-main form select:focus{
+    border-color: none;
+    box-shadow: 0 0 2px 2px var(--logo-color);
+}
+
+.footer-reigster-layout {
+    display: flex;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+
+.footer-reigster-layout span{
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--logo-color);
+}
+.btn:focus{
+    box-shadow: none !important;
+}
+/* -- Media --*/
+@media screen and (max-width: 576px) {
+    .register-page {
+        width: 350px;
+        height: 550px;
+    }
+    .footer-reigster-layout span{
+        font-size: 14px;
+    }
+    .register-page .form-main form h2{
+        font-size: 21px;
+    }
+}
+/* ->-> End Register Page <-<-*/
+/* ->-> Begin Login Page <-<- */
+.login-page {
+    height: 350px;
+}
+.form-check-input:checked {
+    accent-color: var(--logo-color);
+    background-color: var(--logo-color);
+    border-color: var(--logo-color);
+}
+
+/* ->-> End Login Page <-<- */
+

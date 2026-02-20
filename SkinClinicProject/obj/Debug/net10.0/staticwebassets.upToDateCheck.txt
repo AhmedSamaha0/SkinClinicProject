@@ -1,6 +1,6 @@
-wwwroot\css\site.css
-wwwroot\favicon.ico
 wwwroot\js\site.js
+wwwroot\favicon.ico
+wwwroot\css\site.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
@@ -61,7 +61,14 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\css\site.css
+wwwroot\webfonts\fa-brands-400.woff2
+wwwroot\webfonts\fa-regular-400.woff2
+wwwroot\webfonts\fa-solid-900.woff2
+wwwroot\webfonts\fa-v4compatibility.woff2
+wwwroot\css\all.min.css
+wwwroot\js\all.min.js
+wwwroot\Images\skin-clinic-5.jpg
+D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\css\all.min.css
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\favicon.ico
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\js\site.js
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -123,3 +130,5 @@ D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\li
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
 D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\lib\jquery\LICENSE.txt
+D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\css\site.css
+D:\Setup\MVC Projects\Skin Clinic\SkinClinicProject\SkinClinicProject\wwwroot\js\all.min.js
